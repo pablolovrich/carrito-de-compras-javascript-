@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 500,
+      "id": 1,
+      "title": "Iphone SE",
+      "thumbnailUrl": "/img/se-2020.png"
+    },
+    {
+      "precio": 500,
+      "id": 2,
+      "title": "Iphone SE Blanco",
+      "thumbnailUrl": "/img/se-2020-blanco-2.png"
+    },
+    {
+      "precio": 800,
+      "id": 3,
+      "title": "Iphone 11 Black",
+      "thumbnailUrl": "/img/11-black.png"
+    },
+    {
+      "precio": 800,
+      "id": 4,
+      "title": "Iphone 11 Blanco",
+      "thumbnailUrl": "/img/11-BLANCO.png"
+    },
+    {
+      "precio": 1000,
+      "id": 5,
+      "title": "Iphone 12 Black",
+      "thumbnailUrl": "/img/12-black.png"
+    },
+    {
+      "precio": 1300,
+      "id": 6,
+      "title": "Iphone 12 Pro Max Silver",
+      "thumbnailUrl": "/img/12-pro-max-silver.png"
+    }
+  ]
